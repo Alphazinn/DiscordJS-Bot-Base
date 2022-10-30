@@ -1,0 +1,6 @@
+{
+    "LANGUAGE": "Türkçe",
+    "TEST_MESSAGE": "Bu bir test mesajıdır. tr.json dan alındı",
+
+    "PING": "Pong! -[PING]-ms Sürdü!"
+}

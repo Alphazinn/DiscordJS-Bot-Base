@@ -1,0 +1,5 @@
+{
+    "Owner": "OWNER_ID",
+    "Token": "BOT_TOKEN",
+    "MongoURL": "MONGO_URL"
+}

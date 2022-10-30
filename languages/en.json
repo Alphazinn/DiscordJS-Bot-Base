@@ -1,0 +1,6 @@
+{
+    "LANGUAGE": "English",
+    "TEST_MESSAGE": "This is a test message. Got from en.json",
+
+    "PING": "Pong! Took -[PING]-ms!"
+}
